@@ -9,7 +9,7 @@ $use_get_requests = true;
 $byte_range = "0-10";
 
 ini_set('max_execution_time', 0);
-ini_set('memory_limit', '2048M');
+ini_set('memory_limit', '4096M');
 ini_set('max_input_time', -1);
 set_time_limit(0);
 
